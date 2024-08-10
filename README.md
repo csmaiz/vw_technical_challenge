@@ -15,7 +15,49 @@ The vw_technical_challenge root directory contains this README, the requirements
 * `input`: contains the two input datasets (customer transactions and customer reviews)
 * `output`: contains the preprocessed files and figures 
 * `deliverables`: contains the documents with explanations and conclusions as requested
-* 
+
+<table>
+<tr><th>Task</th><th>Deliverable</th></tr>
+<tr><td>
+1
+</td><td>
+
+* [Document](deliverables/deliverable_task1.pdf)
+
+* [Cleaned Customer Transactions file](output/task1/transactions_cleaned.csv)
+</td></tr>
+<tr><td>
+2
+</td><td>
+
+* [Document](deliverables/deliverable_task2.pdf)
+
+</td></tr>
+<tr><td>
+
+3
+
+</td><td>
+
+* [Document](deliverables/deliverable_task3.pdf)
+
+* [Reviews with scores](output/task3/reviews_with_scores.csv)
+
+</td></tr>
+<tr><td>
+
+4
+</td><td>
+
+* [Document](deliverables/deliverable_task4.pdf)
+
+</td></tr>
+
+</table>
+
+
+
+
 
 requirements.txt
 ---
