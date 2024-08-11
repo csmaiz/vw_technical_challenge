@@ -1,10 +1,10 @@
 # vw_technical_challenge
 
 The code implementation in jupyter notebooks
-  * [Task1: Exploratory Data Analysis](src/Task1_Exploratory_Data_Analysis.ipynb)
-  * [Task 2: Predictive Modeling](src/Task2_Predictive_Modeling.ipynb)
-  * [Task 3: Natural Language Processing](src/Task3_Natural_Language_Processing.ipynb)
-  * [Task 4: Real-world Scenario](src/Task4_Real_world_Scenario.ipynb)
+  * [Task1: Exploratory Data Analysis](Task1_Exploratory_Data_Analysis.ipynb)
+  * [Task 2: Predictive Modeling](Task2_Predictive_Modeling.ipynb)
+  * [Task 3: Natural Language Processing](Task3_Natural_Language_Processing.ipynb)
+  * [Task 4: Real-world Scenario](Task4_Real_world_Scenario.ipynb)
 
 
 The deliverables:
@@ -15,15 +15,15 @@ The deliverables:
 1
 </td><td>
 
-* [Document](deliverables/deliverable_task1.pdf)
+* [Document](../deliverables/deliverable_task1.pdf)
 
-* [Cleaned Customer Transactions file](output/cleaned_files/transactions_cleaned.csv)
+* [Cleaned Customer Transactions file](../output/cleaned_files/transactions_cleaned.csv)
 </td></tr>
 <tr><td>
 2
 </td><td>
 
-* [Document](deliverables/deliverable_task2.pdf)
+* [Document](../deliverables/deliverable_task2.pdf)
 
 </td></tr>
 <tr><td>
@@ -32,9 +32,9 @@ The deliverables:
 
 </td><td>
 
-* [Document](deliverables/deliverable_task3.pdf)
+* [Document](../deliverables/deliverable_task3.pdf)
 
-* [Cleaned Customer Reviews file](output/cleaned_files/reviews_with_scores.csv)
+* [Cleaned Customer Reviews file](../output/cleaned_files/reviews_with_scores.csv)
 
 </td></tr>
 <tr><td>
@@ -42,7 +42,7 @@ The deliverables:
 4
 </td><td>
 
-* [Document](deliverables/deliverable_task4.pdf)
+* [Document](../deliverables/deliverable_task4.pdf)
 
 </td></tr>
 
