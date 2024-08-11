@@ -1,6 +1,6 @@
 # Data Scientist II Technical Challenge
 
-This repository presents a comprehensive solution to the [Data Scientist II technical challenge](./Data_Scientist_II_Technical_Challenge.pdf") . It encompasses exploratory data analysis, predictive modeling, natural language processing, and topic modeling tasks. Leveraging Python and its powerful libraries, this project demonstrates strong data manipulation, visualization, and machine learning skills.
+This repository presents a comprehensive solution to the [Data Scientist II technical challenge](./Data_Scientist_II_Technical_Challenge.pdf) . It encompasses exploratory data analysis, predictive modeling, natural language processing, and topic modeling tasks. Leveraging Python and its powerful libraries, this project demonstrates strong data manipulation, visualization, and machine learning skills.
 
 # Installation and running
 You will need Python version 3.8.5 or higher for the project
@@ -46,15 +46,15 @@ To complement the code and outputs, PDF documents have been created for each tas
 1
 </td><td>
 
-* [Document](../deliverables/deliverable_task1.pdf)
+* [Document](./deliverables/deliverable_task1.pdf)
 
-* [Cleaned Customer Transactions file](../output/cleaned_files/transactions_cleaned.csv)
+* [Cleaned Customer Transactions file](./output/cleaned_files/transactions_cleaned.csv)
 </td></tr>
 <tr><td>
 2
 </td><td>
 
-* [Document](../deliverables/deliverable_task2.pdf)
+* [Document](./deliverables/deliverable_task2.pdf)
 
 </td></tr>
 <tr><td>
@@ -63,9 +63,9 @@ To complement the code and outputs, PDF documents have been created for each tas
 
 </td><td>
 
-* [Document](../deliverables/deliverable_task3.pdf)
+* [Document](./deliverables/deliverable_task3.pdf)
 
-* [Cleaned Customer Reviews file](../output/cleaned_files/reviews_with_scores.csv)
+* [Cleaned Customer Reviews file](./output/cleaned_files/reviews_with_scores.csv)
 
 </td></tr>
 <tr><td>
@@ -73,7 +73,7 @@ To complement the code and outputs, PDF documents have been created for each tas
 4
 </td><td>
 
-* [Document](../deliverables/deliverable_task4.pdf)
+* [Document](./deliverables/deliverable_task4.pdf)
 
 </td></tr>
 
