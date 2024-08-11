@@ -1,0 +1,981 @@
+review_text,preprocessed_review,vader_label,vader_label_3categ,bert_score,bert_label,bert_label_3categ
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Very disappointed with the product, not as described.",disappointed product described,negative,negative,0.00021126502542756498,negative,negative
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+Fast delivery and the product works perfectly!,fast delivery product work perfectly,positive,positive,0.999871015548706,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Amazing quality, will definitely buy again.",amazing quality definitely buy,positive,positive,0.9998866319656372,positive,positive
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Average quality, you get what you pay for.",average quality get pay,negative,neutral,0.5918025374412537,positive,positive
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"Great product, very satisfied with the quality and performance.",great product satisfied quality performance,positive,positive,0.9998571872711182,positive,positive
+"The product broke after one use, very unhappy.",product broke one use unhappy,negative,negative,0.00023030857846606523,negative,negative
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"The service was acceptable, but could be improved.",service acceptable could improved,positive,positive,0.028428703546524048,negative,neutral
+"Terrible service, will not buy from here again.",terrible service buy,negative,negative,0.0011877164943143725,negative,negative
+The item arrived damaged and customer service was unhelpful.,item arrived damaged customer service unhelpful,negative,negative,0.00020584168669302016,negative,negative
+"The product exceeded my expectations, very happy with the purchase.",product exceeded expectation happy purchase,positive,positive,0.9998540878295898,positive,positive
+"Excellent service, highly recommend!",excellent service highly recommend,positive,positive,0.9998730421066284,positive,positive
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"Poor quality, would not recommend.",poor quality would recommend,negative,negative,0.000832162331789732,negative,negative
+"The product is okay, nothing special.",product okay nothing special,negative,neutral,0.014106560498476028,negative,neutral
+"The product works fine, but took a long time to arrive.",product work fine took long time arrive,positive,positive,0.004364439286291599,negative,negative
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
+"Decent product, but there are better options available.",decent product better option available,positive,positive,0.9792628288269043,positive,positive
