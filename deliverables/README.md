@@ -25,7 +25,7 @@
 
 * [Document](deliverables/deliverable_task3.pdf)
 
-* [Reviews with scores](output/cleaned_files/reviews_with_scores.csv)
+* [Cleaned Customer Reviews file](output/cleaned_files/reviews_with_scores.csv)
 
 </td></tr>
 <tr><td>
