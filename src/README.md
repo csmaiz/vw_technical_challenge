@@ -1,4 +1,7 @@
-# vw_technical_challenge
+# Data Scientist II Technical Challenge
+
+# Jupyter notebooks
+
 
 The code implementation in jupyter notebooks
   * [Task1: Exploratory Data Analysis](Task1_Exploratory_Data_Analysis.ipynb)
@@ -6,6 +9,8 @@ The code implementation in jupyter notebooks
   * [Task 3: Natural Language Processing](Task3_Natural_Language_Processing.ipynb)
   * [Task 4: Real-world Scenario](Task4_Real_world_Scenario.ipynb)
 
+
+# Deliverables 
 
 The deliverables:
 
