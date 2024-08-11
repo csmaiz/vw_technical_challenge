@@ -1,14 +1,5 @@
 # vw_technical_challenge
 
-The code implementation in jupyter notebooks
-  * [Task1: Exploratory Data Analysis](src/Task1_Exploratory_Data_Analysis.ipynb)
-  * [Task 2: Predictive Modeling](src/Task2_Predictive_Modeling.ipynb)
-  * [Task 3: Natural Language Processing](src/Task3_Natural_Language_Processing.ipynb)
-  * [Task 4: Real-world Scenario](src/Task4_Real_world_Scenario.ipynb)
-
-
-The deliverables:
-
 <table>
 <tr><th>Task</th><th>Deliverable</th></tr>
 <tr><td>
@@ -47,6 +38,3 @@ The deliverables:
 </td></tr>
 
 </table>
-
-
-

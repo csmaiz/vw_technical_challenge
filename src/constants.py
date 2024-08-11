@@ -31,6 +31,6 @@ TRANSACTIONS_FILENAME = "customer_transactions_with_errors.csv"
 TRANSACTIONS_CLEANED_FILENAME = "transactions_cleaned.csv"
 
 REVIEWS_FILENAME = "customer_reviews_with_errors.csv"
-REVIEWS_CLEANED_FILENAME = "reviews_wtih_scores.csv"
+REVIEWS_CLEANED_FILENAME = "reviews_with_scores.csv"
 
 LDA_VIS_FILENAME = "ldavis.html"
