@@ -1,9 +1,6 @@
 # vw_technical_challenge
 
-
-
-Source code layout
----
+## Directory Layout
 
 The vw_technical_challenge root directory contains this README, the requirements.txt file and the following directories:
 
@@ -12,8 +9,10 @@ The vw_technical_challenge root directory contains this README, the requirements
   * [Task 2: Predictive Modeling](src/Task2_Predictive_Modeling.ipynb)
   * [Task 3: Natural Language Processing](src/Task3_Natural_Language_Processing.ipynb)
   * [Task 4: Real-world Scenario](src/Task4_Real_world_Scenario.ipynb)
-* `input`: contains the two input datasets (customer transactions and customer reviews)
+* `input`: contains the two input datasets ([customer transactions](input/customer_transactions_with_errors.csv) and [customer reviews](input/customer_reviews_with_errors.csv)
 * `output`: contains the preprocessed files and figures 
+   * [Cleaned Customer Transactions file](output/task1/transactions_cleaned.csv)
+   * [Cleaned Customer Reviews file](output/task3/reviews_with_scores.csv)
 * `deliverables`: contains the documents with explanations and conclusions as requested
 
 <table>
